@@ -1,0 +1,16 @@
+.main_input{
+    width: 300px;
+    height: 30px;
+}
+
+.main_btn{
+    width: 50px;
+    height: 35px;
+}
+
+.todo_btn{
+    border: none;
+    color: red;
+    background-color: transparent;
+    font-size: 20px;
+}
